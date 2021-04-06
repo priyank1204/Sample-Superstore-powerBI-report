@@ -6,6 +6,7 @@
   * [Dataset details](#Dataset-details)
   * [Graphs that are used in the Report](#Graphs-that-are-used-in-the-Report)
   * [Power BI Report on Superstore Dataset](#Power-BI-Report-on-Superstore-Dataset)
+  * [Features](#Features)
 ### Overview
 This report is being built using PowerBI desktop which is an tool build by microsoft for data analysis and visualization. Power BI is widely used in industries to get insights from the dataset only with single clicks. In powerBI ther are inbuild options avaliable for applying query to the data and also ther are very nice data visualization tools. 
 
