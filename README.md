@@ -44,7 +44,7 @@ The data set used in this is Sample Superstore dataset that is collected over th
 ## Features:
            This report is extremely user friendly , i have added slicers in the report using which the user can see for the report for only a specific country so they can select that country and the report will be adjusted in that way. like if i want to see data for any 5 countries then the report will be as folows:
            
-           ![report1](https://user-images.githubusercontent.com/53222813/113764839-2125fd80-9739-11eb-9cf5-e8398fdc096c.JPG)
+![report1](https://user-images.githubusercontent.com/53222813/113764839-2125fd80-9739-11eb-9cf5-e8398fdc096c.JPG)
 
 
 
