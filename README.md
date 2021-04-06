@@ -23,19 +23,19 @@ The data set used in this is Sample Superstore dataset that is collected over th
 ## Graphs that are used in the Report:
 
 ### Slicer:
-            Slicers in Power BI are a type of on canvas visual filters. The slicers enable a user to sort and filter a packed report and view only the information they want.
+ Slicers in Power BI are a type of on canvas visual filters. The slicers enable a user to sort and filter a packed report and view only the information they want.
        
 ### Gauge :
-            A radial gauge chart has a circular arc and shows a single value that measures progress toward a goal or a Key Performance Indicator (KPI). The line (or needle) represents the goal or target value. The shading represents the progress toward that goal. The The value inside the arc represents the progress value.
+  A radial gauge chart has a circular arc and shows a single value that measures progress toward a goal or a Key Performance Indicator (KPI). The line (or needle) represents the goal or target value. The shading represents the progress toward that goal. The The value inside the arc represents the progress value.
 
 ### Line Chart :
-                   Line chart is characterized by a series of data points connected by a line. Each point in the line corresponds to a data value in the given category
+  Line chart is characterized by a series of data points connected by a line. Each point in the line corresponds to a data value in the given category
              
 ### Stacked Bar Chart : 
-                        Stacked Bar Graphs are used to show how a larger category is divided into smaller categories and what the relationship of each part has on the total amount.
+ Stacked Bar Graphs are used to show how a larger category is divided into smaller categories and what the relationship of each part has on the total amount.
 
 ### Pie Chart : 
-                 Power BI Pie Charts are very useful to visualize the High-level data. For example, Sales by Continent or region, Orders by Country, Customers by region, or Sales by Main product Group, etc.
+ Power BI Pie Charts are very useful to visualize the High-level data. For example, Sales by Continent or region, Orders by Country, Customers by region, or Sales by Main product Group, etc.
                  
 ## Power BI Report on Superstore Dataset:
 [
@@ -43,7 +43,7 @@ The data set used in this is Sample Superstore dataset that is collected over th
 ](url)
 
 ## Features:
-           This report is extremely user friendly , i have added slicers in the report using which the user can see for the report for only a specific country so they can select that country and the report will be adjusted in that way. like if i want to see data for any 5 countries then the report will be as folows:
+This report is extremely user friendly , i have added slicers in the report using which the user can see for the report for only a specific country so they can select that country and the report will be adjusted in that way. like if i want to see data for any 5 countries then the report will be as folows:
            
 ![report1](https://user-images.githubusercontent.com/53222813/113764839-2125fd80-9739-11eb-9cf5-e8398fdc096c.JPG)
 
