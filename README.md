@@ -26,7 +26,9 @@ https://powerbi.microsoft.com/en-us/downloads/
                  Power BI Pie Charts are very useful to visualize the High-level data. For example, Sales by Continent or region, Orders by Country, Customers by region, or Sales by Main product Group, etc.
                  
 
-            
+[
+![report](https://user-images.githubusercontent.com/53222813/113759991-5cbdc900-9733-11eb-8839-f2d100a3ba0d.JPG)
+](url)
         
         
 
