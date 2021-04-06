@@ -1,4 +1,3 @@
-![report](https://user-images.githubusercontent.com/53222813/113760180-8ecf2b00-9733-11eb-8ef9-d96584de0960.JPG)
 # sample-superstore-powerBI-report
 
 ## Table of Content
@@ -6,9 +5,7 @@
   * [PowerBI installation ](#PowerBI-installation )
   * [Dataset details](#Dataset-details)
   * [Graphs that are used in the Report](#Graphs-that-are-used-in-the-Report)
-  * [Deployement Link](#Deployement-Link)
-  * [Technologies Used](#technologies-used)
-  * 
+  * [Power BI Report on Superstore Dataset](#Power-BI-Report-on-Superstore-Dataset)
 ### Overview
 This report is being built using PowerBI desktop which is an tool build by microsoft for data analysis and visualization. Power BI is widely used in industries to get insights from the dataset only with single clicks. In powerBI ther are inbuild options avaliable for applying query to the data and also ther are very nice data visualization tools. 
 
@@ -43,6 +40,11 @@ The data set used in this is Sample Superstore dataset that is collected over th
 [
 ![report](https://user-images.githubusercontent.com/53222813/113759991-5cbdc900-9733-11eb-8839-f2d100a3ba0d.JPG)
 ](url)
+
+## Features:
+           This report is extremely user friendly , i have added slicers in the report using which the user can see for the report for only a specific country so they can select that country and the report will be adjusted in that way. like if i want to see data for any 5 countries then the report will be as folows:
+           
+           ![report1](https://user-images.githubusercontent.com/53222813/113764839-2125fd80-9739-11eb-9cf5-e8398fdc096c.JPG)
 
 
 
