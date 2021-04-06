@@ -1,3 +1,4 @@
+![report](https://user-images.githubusercontent.com/53222813/113760180-8ecf2b00-9733-11eb-8ef9-d96584de0960.JPG)
 # sample-superstore-powerBI-report
 
 ### Overview
