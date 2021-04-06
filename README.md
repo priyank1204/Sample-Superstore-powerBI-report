@@ -9,23 +9,23 @@ PowerBI Desktop can be installed freely installed from the below link:
 
 https://powerbi.microsoft.com/en-us/downloads/
 
-### Graphs that are used in the Report:
-#### Slicer:
+## Graphs that are used in the Report:
+### Slicer:
             Slicers in Power BI are a type of on canvas visual filters. The slicers enable a user to sort and filter a packed report and view only the information they want.
        
-#### Gauge :
+### Gauge :
             A radial gauge chart has a circular arc and shows a single value that measures progress toward a goal or a Key Performance Indicator (KPI). The line (or needle) represents the goal or target value. The shading represents the progress toward that goal. The The value inside the arc represents the progress value.
 
-#### Line Chart :
+### Line Chart :
                    Line chart is characterized by a series of data points connected by a line. Each point in the line corresponds to a data value in the given category
              
-#### Stacked Bar Chart : 
+### Stacked Bar Chart : 
                         Stacked Bar Graphs are used to show how a larger category is divided into smaller categories and what the relationship of each part has on the total amount.
 
-#### Pie Chart : 
+### Pie Chart : 
                  Power BI Pie Charts are very useful to visualize the High-level data. For example, Sales by Continent or region, Orders by Country, Customers by region, or Sales by Main product Group, etc.
                  
-                 
+
             
         
         
